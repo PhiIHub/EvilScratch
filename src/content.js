@@ -25,7 +25,7 @@ function createCLI() {
 
     // Header for dragging
     const cliHeader = document.createElement('div');
-    cliHeader.textContent = 'Scratch CLI';
+    cliHeader.textContent = 'EvilScratch CLI';
     cliHeader.style.background = '#333';
     cliHeader.style.padding = '8px';
     cliHeader.style.cursor = 'move';
