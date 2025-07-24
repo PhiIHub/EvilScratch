@@ -17,4 +17,5 @@ This is a lightweight toolbox for Scratch, containing many awesome scripts.
 
 ## Contributing
 
-Feel free to submit issues or pull requests for improvements or bug fixes.
+The more scripts are added, the better this CLI becomes! Please do add as many as you can :)
+Also, feel free to submit any issues or pull requests for improvements and bug fixes.
